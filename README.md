@@ -1,25 +1,28 @@
 <!-- Nisarg Vyas - GitHub Profile README -->
 
-# 👋 Hi, I'm Nisarg Vyas
+# cout<<"hello world"<<endl;
+## I'm Nisarg Vyas
 
 🎓 Computer Science Engineering Student  
-🤖 Robotics Enthusiast | Builder | Competitor  
-💡 Exploring Microcontrollers, Embedded Systems & Automation
+🤖 Robotics Enthusiast | Learning about CS 
+💡 Exploring Microcontrollers and finding interest in CSE
 
 ### 🧭 About Me
-- Currently working on **Robotics Projects** and competing in events  
-- Learning about **Microcontrollers** and building a strong **Computer Science foundation**  
-- Exploring how software meets hardware through **Arduino & embedded programming**  
-- Focused on becoming a **well-rounded engineer** who can both **design and build**
+I like to:
+- Learn every concept in deapth
+- Make DIY things and Robotics related projects
+- Focus on "why" and "how"
+- Deal with hardware + software
+
+Currently:
+- Making Projects
+- Learning core CSE
+- Making Robotics projects and participating in compititions
 
 ### 🛠️ Tech Stack
 C • C++ • Arduino IDE • GitHub • VS Code
 
-### 🌱 Currently Learning
-Microcontrollers | Robotics Projects | Core CS Concepts
-
 ### 🧩 Hobbies & Interests
 Robotics Competitions, Playing Badminton, Solving Twisty Puzzles (Rubik’s Cubes & more), Watching Movies, Capturing Moments through Photography !
 
-⭐ *“Everything is possible! Terms and Conditions applied - if you truely desire to do that!”*  
-— **Nisarg Vyas**
+*“Everything is possible!”*  
