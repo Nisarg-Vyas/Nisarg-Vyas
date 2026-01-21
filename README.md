@@ -4,7 +4,7 @@
 ## I'm Nisarg Vyas
 
 🎓 Computer Science Engineering Student  
-🤖 Robotics Enthusiast | Learning about CS 
+🤖 Robotics Enthusiast | Learning about CS    
 💡 Exploring Microcontrollers and finding interest in CSE
 
 ### 🧭 About Me
